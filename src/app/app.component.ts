@@ -8,7 +8,7 @@ import { Angular2PrestaService, Angular2PrestaQuery } from 'angular2-presta';
   selector: 'app-root',
   template: `
     <div *ngFor="let product of product$ | async">
-      <a2p-image [resource]="query.resource" [resourceID]="product.id" [imageID]="product.id_default_image" [size]="'medium'"></a2p-image>
+      <a2p-image [resource]="query.resource" [resourceID]="product.id" [imageID]="product.id_default_image" [size]="'home'"></a2p-image>
       <h1 [innerHTML]="product.name"></h1>
       <p [innerHTML]="product.description_short"></p>
       <p>{{ product.price | currency }}<p>
