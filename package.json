@@ -3,7 +3,7 @@
   "version": "0.1.18",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SKaDiZZ/angular2-presta"
+    "url": "https://github.com/mikule1/angular2-presta"
   },
   "author": {
     "name": "Samir Kahvedzic",
@@ -20,7 +20,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SKaDiZZ/angular2-presta/issues"
+    "url": "https://github.com/mikule1/angular2-presta/issues"
   },
   "scripts": {
     "ng": "ng",
