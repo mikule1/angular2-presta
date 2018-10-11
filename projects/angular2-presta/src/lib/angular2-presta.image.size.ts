@@ -1,9 +1,9 @@
 export enum Angular2PrestaImageSize {
-  cart = 'cart_default',
-  small = 'small_default',
-  medium = 'medium_default',
-  large = 'large_default',
-  thickbox = 'thickbox_default',
-  home = 'home_default',
-  category = 'category_default'
+  cart = 'cart_01grid',
+  small = 'small_01grid',
+  medium = 'small_default',
+  large = 'large_01grid',
+  thickbox = 'thickbox_01grid',
+  home = 'home_01grid',
+  category = 'category_01grid'
 }
